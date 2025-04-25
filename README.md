@@ -1,4 +1,4 @@
-# Training LocalTreinamento - NomeDoTreinamento
+# Alura - PostgreSQL: Views, Sub-Consultas e Funções
 
 ## Estrutura do Repositório
 
