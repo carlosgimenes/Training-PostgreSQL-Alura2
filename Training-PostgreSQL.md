@@ -2,7 +2,7 @@
 
 ### **Instrutor**: Vinicius Dias
 ### **Linkedin**: [Perfil do LinkeIn](https://www.linkedin.com/in/cviniciussdias/)
-### **Página do curso na Alura**: [Link para página do curso na-no LocalTreinamento](https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes)
+### **Página do curso na Alura**: [Link para página do curso na Alura](https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes)
 ### **Pasta no Google Drive de apoio ao Treinamento**: Não se aplica
 ### **Início**: 24/04/2024
 ### **Término**: 
