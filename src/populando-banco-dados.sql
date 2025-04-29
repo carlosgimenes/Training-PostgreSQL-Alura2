@@ -3,6 +3,7 @@
 -- Populando o banco de dados com dados fictícios
 
 -- Aluno    (id, primeiro_nome, ultimo_nome, data_nascimento)
+-- ==========================================================
 INSERT INTO aluno (primeiro_nome, ultimo_nome, data_nascimento) VALUES
 ('João', 'Silva', '1990-01-01'),
 ('Maria', 'Oliveira', '1992-02-02'),
@@ -49,6 +50,7 @@ FROM
 */
 
 -- Categoria (id, nome)
+-- ====================
 INSERT INTO categoria (nome) VALUES
 ('Banco de Dados'),
 ('Desenvolvimento Web'),
@@ -84,6 +86,7 @@ FROM
 */
 
 -- Curso    (id, nome, categoria_id)
+-- =================================
 INSERT INTO curso (nome, categoria_id) VALUES
 ('Introdução ao PostgreSQL', 1),
 ('PostgreSQL Avançado', 1),
@@ -123,6 +126,7 @@ FROM
 */
 
 -- Aluno_Curso (aluno_id, curso_id)
+-- ================================
 INSERT INTO aluno_curso (aluno_id, curso_id) VALUES
 (1, 1),
 (1, 2),
